@@ -1,28 +1,39 @@
 ---
 layout: default
-title: About CookingMadeEasy
+title: "About CookingMadeEasy"
 permalink: /about/
-description: "CookingMadeEasy helps home cooks master simple recipes, meal prep, and kitchen skills with practical, beginner-friendly guides."
+description: "About Kkuma Park, the writer behind CookingMadeEasy."
 ---
 
 # About CookingMadeEasy
 
-CookingMadeEasy is your everyday companion for simple, delicious home cooking that anyone can master.
+## Who writes here
 
-We cover everything from quick weeknight dinners to budget-friendly meal prep, all explained step by step so you never feel lost in the kitchen.
+My name is **Kkuma Park**. I'm an independent writer and developer based in Seoul, South Korea. I've spent more than a decade in IT, built a handful of small software products, and along the way accumulated a list of personal experiments, mistakes, and hard-won notes that turned into this blog.
 
-## What We Cover
+I'm not a chef — I'm a lazy weekday cook who hates washing dishes. Every recipe on this site has been made in my small Seoul apartment kitchen at least five times, usually after 10pm, with the ingredients I could find at my local market.
 
-- **Easy Recipes** - Quick meals you can make in 30 minutes or less
-- **Meal Prep** - Plan your week and save time and money
-- **Baking** - Simple baking recipes for beginners and beyond
-- **Healthy Cooking** - Nutritious meals that actually taste great
-- **Kitchen Tips** - Essential skills and gadget reviews
-- **Budget Meals** - Delicious food without breaking the bank
-- **International Cuisine** - Explore flavors from around the world
+## What CookingMadeEasy is for
 
-## Our Mission
+CookingMadeEasy is my working notebook on **cooking**. Every article here exists because I needed the answer myself at some point and couldn't find a version I trusted.
 
-We believe great food does not have to be complicated or expensive. Our mission is to make cooking approachable for everyone, whether you are a complete beginner or looking for fresh weeknight inspiration.
+I try to follow three rules on this site:
 
-New recipes and tips are published daily. Subscribe to our [RSS feed](/feed.xml) to never miss a post.
+1. **Write from experience, not summary.** If I haven't actually done it, I won't pretend I have.
+2. **Show the numbers.** Where real data, tests, or costs are useful, I include them.
+3. **Update when I'm wrong.** If I learn that an earlier post was inaccurate, I fix the post and add a note.
+
+## How I run this blog
+
+- Posts are published on a regular schedule.
+- I use AI tools (such as ChatGPT) to help with drafting structure and outlines, but every published post is reviewed, edited, and fact-checked by me before it goes live.
+- Affiliate links, when used, are marked. I only link to products I have actually used or would genuinely recommend.
+- Ads on this site come from Google AdSense once my site is approved. Ads help keep the site free to read.
+
+## Get in touch
+
+Questions, corrections, feedback, or collaboration ideas are welcome.
+
+**Email:** [kkumaspark@gmail.com](mailto:kkumaspark@gmail.com)
+
+For privacy, legal, and data practices, please see the [Privacy Policy](/privacy-policy/), [Terms](/terms/), and [Disclaimer](/disclaimer/).

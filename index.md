@@ -1,4 +1,4 @@
 ---
 layout: home
-title: CookingMadeEasy - Simple Recipes & Kitchen Tips for Everyone
+title: "CookingMadeEasy &mdash; Simple recipes and kitchen tips I actually cook at home."
 ---
