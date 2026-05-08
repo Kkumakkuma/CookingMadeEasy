@@ -6,6 +6,8 @@ categories: [international]
 description: "Beginner's Guide to Thai Cooking - Easy recipes and cooking tips for home cooks of every skill level."
 ---
 
+![Beginner's Guide to Thai Cooking](/CookingMadeEasy/assets/pin-images/2026-04-14-beginners-guide-to-thai-cooking.png)
+
 Thai cuisine is a vibrant tapestry of flavors, colors, and textures, celebrated for its balance of sweet, sour, salty, and spicy. If you've ever been enchanted by the fragrant herbs and the bold aromas wafting from a Thai kitchen, you're not alone! In this beginner's guide to Thai cooking, I will share fundamental techniques, essential ingredients, and some exciting recipes to help you create authentic Thai dishes right in your own home. 
 
 ## Understanding Thai Cuisine

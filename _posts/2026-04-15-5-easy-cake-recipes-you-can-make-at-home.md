@@ -6,6 +6,8 @@ categories: [baking]
 description: "5 Easy Cake Recipes You Can Make at Home - Easy recipes and cooking tips for home cooks of every skill level."
 ---
 
+![5 Easy Cake Recipes You Can Make at Home](/CookingMadeEasy/assets/pin-images/2026-04-15-5-easy-cake-recipes-you-can-make-at-home.png)
+
 Baking a cake at home can be one of the most satisfying experiences in the kitchen. Whether it’s for a special celebration, a cozy gathering with friends, or just to treat yourself, nothing quite beats the smell of a freshly baked cake filling your home. The best part is that you don't have to be a professional baker to create delicious cakes. With a few easy recipes, you can whip up a show-stopping dessert that will impress everyone. In this post, I’ll share five easy cake recipes that you can make at home—no fancy equipment or ingredients required.
 
 ## 1. Classic Vanilla Layer Cake

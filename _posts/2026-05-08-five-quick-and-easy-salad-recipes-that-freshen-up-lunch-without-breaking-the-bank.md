@@ -7,6 +7,8 @@ description: "Discover five quick and easy salad recipes that will freshen up yo
 tags: [easy-recipes, cooking-and-recipes, 2026]
 ---
 
+![Five Quick and Easy Salad Recipes That Freshen Up Lunch Without Breaking the Bank](/CookingMadeEasy/assets/pin-images/2026-05-08-five-quick-and-easy-salad-recipes-that-freshen-up-lunch-without-breaking-the-bank.png)
+
 I rounded out my grocery shopping last week and glanced at my total: $78.49. I felt that slight pang of guilt, which always sets in when I realize I might have overspent on my weekly meals. Especially since I have been on a tight budget these past few months. After all, you could easily whip up a delicious lunch with fresh, simple ingredients without burning a hole in your wallet—it's more than possible! 
 
 That's when I decided it was time to get creative with my lunches while keeping them affordable. I tested five quick and easy salad recipes that not only freshen up lunch but also stay within budget. Not only are these salads delicious, but they also provide a balanced meal, ensuring you don't fall into the lunch trap of bland sandwiches or takeout. 

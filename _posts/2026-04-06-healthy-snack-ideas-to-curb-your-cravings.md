@@ -6,6 +6,8 @@ categories: [healthy-cooking]
 description: "Healthy Snack Ideas to Curb Your Cravings - Easy recipes and cooking tips for home cooks of every skill level."
 ---
 
+![Healthy Snack Ideas to Curb Your Cravings](/CookingMadeEasy/assets/pin-images/2026-04-06-healthy-snack-ideas-to-curb-your-cravings.png)
+
 Healthy Snack Ideas to Curb Your Cravings
 
 We’ve all been there: the afternoon slump hits, and a wave of cravings for something salty or sweet washes over you. It can be tempting to reach for quick, processed snacks that might feel satisfying at the moment but leave you feeling sluggish later. Instead, wouldn’t it be great to have a repertoire of healthy snacks ready to go? After all, snacking doesn’t have to be a guilty pleasure. 

@@ -7,6 +7,8 @@ description: "Discover 7 Malaysian food essentials you can recreate at home on a
 tags: [international, cooking-and-recipes, 2026]
 ---
 
+![Malaysian Food Essentials: 7 Dishes You Can Easily Recreate at Home without Breaking the Bank](/CookingMadeEasy/assets/pin-images/2026-05-07-malaysian-food-essentials-7-dishes-you-can-easily-recreate-at-home-without-breaking-the-bank.png)
+
 My love for Malaysian food began in March 2020, back when I spent a whopping $150 on takeout from a local Malaysian restaurant in Seoul over one month. I thought I couldn’t recreate the rich flavors of dishes like Nasi Lemak and Roti Canai at home without breaking the bank. After countless experiments, I not only honed my cooking skills but also learned how to make eight authentic Malaysian dishes for a fraction of the cost. Now, I’m here to share my journey and the essential recipes I discovered along the way, ensuring you can easily whip up authentic Malaysian meals at home without draining your wallet.
 
 ## How I Researched This
